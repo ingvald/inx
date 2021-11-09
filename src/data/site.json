@@ -17,18 +17,13 @@
       "text": "notes",
       "url": "/notes",
       "external": false
-    },
-
-    {
-      "text": "About",
-      "url": "/about",
-      "external": false
     }
+
   ],
   "socialLinks": [
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "@ingvald",
+      "url": "https://twitter.com/ingvald",
       "external": true
     }
   ],
