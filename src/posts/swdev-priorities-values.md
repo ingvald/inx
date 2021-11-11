@@ -15,9 +15,11 @@ in that order...
   * try to let every change make it cheaper to modify in the future
   * ([including evolutionary db design](http://martinfowler.com/articles/evodb.html))
 
+```
 .
 .
 .
+```
 
 * writeability, speed of writing new code
   * [code is read much more often than it is written](https://devblogs.microsoft.com/oldnewthing/?p=27343)
