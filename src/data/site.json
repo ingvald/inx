@@ -7,15 +7,11 @@
     "twitterHandle": "ingvald"
   },
   "defaultSocialImage": "/images/default-social-image.png",
-  "headerLinks": [
+  "headerLinksTEMPdisabled": [
+
     {
-      "text": "thoughts",
-      "url": "/thoughts",
-      "external": false
-    },
-    {
-      "text": "notes",
-      "url": "/notes",
+      "text": "talks",
+      "url": "/talks",
       "external": false
     }
 
