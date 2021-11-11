@@ -8,6 +8,7 @@
 @import 'footer.css';
 @import 'post.css';
 @import 'about.css';
+@import 'tweaks.css';
 
 .layout-wrapper {
   display: grid;
